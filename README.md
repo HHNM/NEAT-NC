@@ -2,7 +2,7 @@
 
 ## to cite this work
 
-[arxiv](https://arxiv.org/abs/2406.10675)
+[acm](https://arxiv.org/abs/2406.10675)
 
 ```bibtex
 @misc{hao2024large,
