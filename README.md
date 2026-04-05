@@ -1,2 +1,2 @@
-# NEAT-NC
-NEAT-NC: NEAT guided Navigation Cells for Robot Path Planning
+# NEAT-NC: NEAT guided Navigation Cells for Robot Path Planning
+
