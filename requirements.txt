@@ -1,0 +1,12 @@
+neat-python==1.1.0
+pygame==2.1.2
+numpy==1.26.1
+
+gymnasium==1.1.1
+stable_baselines3==2.7.1
+
+
+
+
+
+
