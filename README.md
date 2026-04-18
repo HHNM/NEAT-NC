@@ -10,7 +10,7 @@ This code is to support the paper NEAT-NC: NEAT guided Navigation Cells for Robo
 [paper](https://arxiv.org/pdf/2604.15076)
 
 ```bibtex
-@misc{hao2024large,
+@misc{Meliani2026NEATNC,
   title={NEAT-NC: NEAT guided Navigation Cells for Robot Path Planning},
   author={Hibatallah Meliani and Khadija Slimani and Samira Khoulji},
   year={2026},
