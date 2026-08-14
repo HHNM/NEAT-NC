@@ -12,7 +12,15 @@ This code is to support the paper NEAT-NC: NEAT guided Navigation Cells for Robo
 
 ```bibtex
 
-@misc{Meliani_Slimani_Khoulji_2026, title={NEAT-NC: NEAT guided Navigation Cells for Robot Path Planning}, url={http://dx.doi.org/10.1145/3795101.3805301}, DOI={10.1145/3795101.3805301}, journal={Proceedings of the Genetic and Evolutionary Computation Conference Companion}, publisher={ACM}, author={Meliani, Hibatallah and Slimani, Khadija and Khoulji, Samira}, year={2026}, month=july, pages={553–556} }
+@misc{Meliani_Slimani_Khoulji_2026, 
+  title={NEAT-NC: NEAT guided Navigation Cells for Robot Path Planning},
+  url={http://dx.doi.org/10.1145/3795101.3805301}, DOI={10.1145/3795101.3805301},
+  journal={Proceedings of the Genetic and Evolutionary Computation Conference Companion},
+  publisher={ACM},
+  author={Meliani, Hibatallah and Slimani, Khadija and Khoulji, Samira},
+  year={2026},
+  month=july,
+  pages={553–556} }
 
 
 
